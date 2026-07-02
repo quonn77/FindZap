@@ -1,4 +1,4 @@
-package com.example.whatsapp_viewer
+package com.example.findzap
 
 import io.flutter.embedding.android.FlutterActivity
 

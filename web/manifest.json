@@ -1,6 +1,6 @@
 {
-    "name": "whatsapp_viewer",
-    "short_name": "whatsapp_viewer",
+    "name": "FindZap",
+    "short_name": "FindZap",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
